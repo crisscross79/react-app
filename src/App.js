@@ -8,6 +8,11 @@ class App extends Component {
       <>
       <div className="App">
       <p>React app</p>
+      <button>Przycisk</button>
+      <br/>
+      <label>Text 
+        <input type="text" />
+      </label>
       </div>
       </>
      );
